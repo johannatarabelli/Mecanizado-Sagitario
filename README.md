@@ -12,7 +12,7 @@ Nombre y apellido de los colaboradores, junto con sus enlaces a LinkedIn y roles
 Lista de tecnologías utilizadas en el proyecto.
 
 # Enlaces del Proyecto
-_Repositorio en GitHub:_
+_Repositorio en GitHub:_ https://github.com/johannatarabelli/Mecanizado-Sagitario
 _Sitio web:_ https://www.mecanizadosagitario.com/
 
 *Otros enlaces importantes.
